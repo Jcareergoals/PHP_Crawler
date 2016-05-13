@@ -19,7 +19,7 @@
         <script>
         $(document).ready(function(){
             $('.carousel').carousel({
-                interval: 4000 //changes the speed
+                interval: 4000   //changes the speed
             })
         });
         </script>
@@ -111,7 +111,29 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h1>Get your quotes</h1>
-                    <p>The background images for the slider are set directly in the HTML using inline CSS. The rest of the styles for this template are contained within the <code>half-slider.css</code>file.</p>
+                    <p>The code for the crawler/bot will eventually <code>end up within this div</code> created by <code>
+                        <a href="https://www.linkedin.com/in/jose-chery-763110a1">Jose Chery</a></code> thought of by <code>
+                        <a href="https://www.linkedin.com/in/richard-hassad-cpia-34795743">Richard</a></code></p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 </div>
             </div>
             <hr>
