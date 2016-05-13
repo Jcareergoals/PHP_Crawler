@@ -11,6 +11,18 @@
             and get data from specified websites.">
         <meta name="author" content="Jose Chery">
         <title>Hasco Agency Crawler</title>
+                <!-- jQuery -->
+        <script src="js/jquery.js"></script>
+        <!-- Bootstrap Core JavaScript -->
+        <script src="js/bootstrap.min.js"></script>
+        <!-- Script to Activate the Carousel -->
+        <script>
+        $(document).ready(function(){
+            $('.carousel').carousel({
+                interval: 4000 //changes the speed
+            })
+        });
+        </script>
         <!-- Bootstrap Core CSS -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <!-- Custom CSS -->
@@ -34,7 +46,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#">Start Bootstrap</a>
+                    <a class="navbar-brand" href="https://weinsure-hascoagency.com/">WEINSURE</a>
                 </div>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -66,23 +78,23 @@
             <div class="carousel-inner">
                 <div class="item active">
                     <!-- Set the first background image using inline CSS below. -->
-                    <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide One');"></div>
+                    <div class="fill" style="background-image:url('http://www.crowleyinsurance.com/uploads/5/6/6/2/56627403/300050_orig.jpg');"></div>
                     <div class="carousel-caption">
-                        <h2>Caption 1</h2>
+                        <h2>WELCOME TO WEINSURE</h2>
                     </div>
                 </div>
                 <div class="item">
                     <!-- Set the second background image using inline CSS below. -->
-                    <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Two');"></div>
+                    <div class="fill" style="background-image:url('http://www.ktoo.org/wp-content/uploads/2016/03/car-insurance.jpg');"></div>
                     <div class="carousel-caption">
-                        <h2>Caption 2</h2>
+                        <h2>GET REAL TIME QUOTES</h2>
                     </div>
                 </div>
                 <div class="item">
                     <!-- Set the third background image using inline CSS below. -->
-                    <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Three');"></div>
+                    <div class="fill" style="background-image:url('http://ambassadorins.com/wp-content/uploads/2015/06/car-insurance.jpg');"></div>
                     <div class="carousel-caption">
-                        <h2>Caption 3</h2>
+                        <h2>BEST RATES</h2>
                     </div>
                 </div>
             </div>
@@ -98,7 +110,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1>Half Slider by Start Bootstrap</h1>
+                    <h1>Get your quotes</h1>
                     <p>The background images for the slider are set directly in the HTML using inline CSS. The rest of the styles for this template are contained within the <code>half-slider.css</code>file.</p>
                 </div>
             </div>
@@ -107,22 +119,12 @@
             <footer>
                 <div class="row">
                     <div class="col-lg-12">
-                        <p>Copyright &copy; Your Website 2014</p>
+                        <p>Copyright &copy; 2016, We Insure.  All Rights Reserved // Powered by Hasco Agency</p>
                     </div>
                 </div>
                 <!-- /.row -->
             </footer>
         </div>
         <!-- /.container -->
-        <!-- jQuery -->
-        <script src="js/jquery.js"></script>
-        <!-- Bootstrap Core JavaScript -->
-        <script src="js/bootstrap.min.js"></script>
-        <!-- Script to Activate the Carousel -->
-        <script>
-        $('.carousel').carousel({
-            interval: 5000 //changes the speed
-        })
-        </script>
     </body>
 </html>
